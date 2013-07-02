@@ -1609,6 +1609,22 @@
         "online radio",
         "internet radio"
       ]
+    },
+    {
+      "name": "Wikipedia Chrome Extension",
+      "thumb": "wikipedia-chrome-extension/thumb.png",
+      "desc": "Wikipedia Chrome Extension for serious Wikipedia fans!",
+      "url": "https://chrome.google.com/webstore/detail/wikipedia/imilikhegdfjlcbgakjieeecgdnomiel",
+      "submitter": "siddii",
+      "submissionDate": "2013-07-01",
+      "tags": [
+        "chrome",
+        "extension",
+        "wikipedia",
+        "productivity",
+        "Bootstrap",
+        "AngularJS"
+      ]
     }
   ]
 }
